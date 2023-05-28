@@ -1,0 +1,6 @@
+mlruns
+*.db
+.python-version
+**/*.ipynb_checkpoints
+**/*.parquet
+**/*.bin
