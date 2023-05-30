@@ -4,3 +4,7 @@ mlruns
 **/*.ipynb_checkpoints
 **/*.parquet
 **/*.bin
+**/__pycache__
+**/mlruns
+**/mlartifacts
+**/*.pkl

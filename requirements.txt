@@ -8,3 +8,4 @@ hyperopt
 xgboost
 fastparquet
 boto3
+optuna
